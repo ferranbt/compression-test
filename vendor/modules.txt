@@ -1,0 +1,63 @@
+# github.com/allegro/bigcache v1.2.0
+github.com/allegro/bigcache
+github.com/allegro/bigcache/queue
+# github.com/aristanetworks/goarista v0.0.0-20190924011532-60b7b74727fd
+github.com/aristanetworks/goarista/monotime
+# github.com/btcsuite/btcd v0.0.0-20190213025234-306aecffea32
+github.com/btcsuite/btcd/btcec
+# github.com/deckarep/golang-set v1.7.1
+github.com/deckarep/golang-set
+# github.com/elastic/gosigar v0.10.5
+github.com/elastic/gosigar
+github.com/elastic/gosigar/sys/windows
+# github.com/ethereum/go-ethereum v1.9.5
+github.com/ethereum/go-ethereum/ethclient
+github.com/ethereum/go-ethereum
+github.com/ethereum/go-ethereum/common
+github.com/ethereum/go-ethereum/common/hexutil
+github.com/ethereum/go-ethereum/core/types
+github.com/ethereum/go-ethereum/rlp
+github.com/ethereum/go-ethereum/rpc
+github.com/ethereum/go-ethereum/crypto
+github.com/ethereum/go-ethereum/params
+github.com/ethereum/go-ethereum/trie
+github.com/ethereum/go-ethereum/log
+github.com/ethereum/go-ethereum/p2p/netutil
+github.com/ethereum/go-ethereum/common/math
+github.com/ethereum/go-ethereum/crypto/secp256k1
+github.com/ethereum/go-ethereum/common/prque
+github.com/ethereum/go-ethereum/ethdb
+github.com/ethereum/go-ethereum/metrics
+github.com/ethereum/go-ethereum/common/mclock
+# github.com/go-stack/stack v1.8.0
+github.com/go-stack/stack
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/gorilla/websocket v1.4.1
+github.com/gorilla/websocket
+# github.com/klauspost/compress v1.8.4
+github.com/klauspost/compress/zstd
+github.com/klauspost/compress/huff0
+github.com/klauspost/compress/snappy
+github.com/klauspost/compress/zstd/internal/xxhash
+github.com/klauspost/compress/fse
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/rs/cors v1.7.0
+github.com/rs/cors
+# github.com/steakknife/bloomfilter v0.0.0-20180922174646-6819c0d2a570
+github.com/steakknife/bloomfilter
+# github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3
+github.com/steakknife/hamming
+# github.com/umbracle/minimal v0.0.0-20190813134731-b7454f0d37a6
+github.com/umbracle/minimal/rlp
+# github.com/valyala/gozstd v1.6.2
+github.com/valyala/gozstd
+# golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.0.0-20190912141932-bc967efca4b8
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
+gopkg.in/natefinch/npipe.v2
